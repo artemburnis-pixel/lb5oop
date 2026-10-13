@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../moneylib/moneylib.vcxproj" Id="fd648c0e-3c1b-47dc-8366-356aa9c83382" />
+  <Project Path="moneyapp.vcxproj" Id="58f659d1-fb99-4555-9a50-ce6954eb1318" />
+</Solution>
